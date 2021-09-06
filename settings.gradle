@@ -1,0 +1,3 @@
+include ':mobilehubwear'
+include ':app'
+rootProject.name = "MobileHub"
